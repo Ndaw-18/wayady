@@ -1,3 +1,1 @@
-var nom = prompt("comment tu t'appelles");
-var prenom = prompt("votre nom propre");
-var nomcomplet = (nom)+(prenom);
+
